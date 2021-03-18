@@ -5,7 +5,6 @@ output:
   word_document: default
   html_notebook: default
 ---
-Project prepared by: Aditya Chand, Lavanya Jindal, Liew Wee Don, Muhammad Naufal, Lee Wai Ying Chramaine
 
 # Part 1
 
